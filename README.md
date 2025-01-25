@@ -63,4 +63,3 @@ Inspired by the App Brewery's Dice Game project. Built with ❤️ to explore th
 
 --- 
 
-Let me know if you'd like further adjustments or additional sections!
